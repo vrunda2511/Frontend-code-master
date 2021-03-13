@@ -142,8 +142,8 @@ fetch("http://localhost:4000/api/ViewFromCart/"+customer_id, requestOptions)
             draggable: true,
             progress: undefined,
             });
-       
-        }
+            this.props.onHide()
+          }
         })
         .catch(error => console.log('error', error));
     
