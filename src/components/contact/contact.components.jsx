@@ -11,7 +11,7 @@ function Contact() {
       <div className="quickSupport">
           <h3>Want quick support?</h3>
           <p className="ptag">Our Mission is to empower millions of service professionals by delivering services at-home in a way that has never been experienced before.</p>
-          <Button className="buton" type="primary" size="large" href="mailto:abc@gmail.com"><MdEmail style={{marginRight:"3px", marginBottom:"2px"}} />Email Us</Button>
+          <Button className="buton" type="primary" size="large" href="mailto:wecarehomecare.2511@gmail.com"><MdEmail style={{marginRight:"3px", marginBottom:"2px"}} />Email Us</Button>
           {/* <button className="button" href="mailto:abc@gmail.com">Email Us</button> */}
         </div>
     </div>

@@ -90,7 +90,7 @@ const Footer = ( {history} ) => {
                         <h5 className="headin5_amrc col_white_amrc pt2">About us</h5>
                         {/* <!--headin5_amrc ends here--> */}
                 
-                        <p>We Care Home Care was launched in November 2020. The company"s vision is to empower millions of service professionals across the world to deliver services at home like never seen before.</p>
+                        <p>We Care Home Care was launched in March 2021. It is one of the best home services platform in Ahmedabad. The platform helps customers book reliable home services like beauty services, cleaning, plumbing, carpentry, appliance repair, painting etc. The company\'s vision is to empower millions of service professionals across the world to deliver services at home like never seen before.</p>
                         {/* <!--footer_ul2_amrc ends here--> */}
                     </div>
                 </div>
@@ -99,7 +99,7 @@ const Footer = ( {history} ) => {
 
             <div className="container">
                 {/* <!--foote_bottom_ul_amrc ends here--> */}
-                <p className="text-center copyright">Copyright ©2021 All Rights Reserved | Designed by <a href="/">We Care home Care</a></p>
+                <p className="text-center copyright">Copyright ©{new Date().getFullYear()} All Rights Reserved</p>
 
                 {/* <ul className="social_footer_ul">
                 <li><a href="http://facebook.com"><i className="fab fa-facebook-f"></i></a></li>
